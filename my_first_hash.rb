@@ -40,5 +40,5 @@ shipping_manifest = ["gun powder"] => 4
 
 end
   # return the shipping_manifest hash below
-  shipping_manifest
+ puts  shipping_manifest
 end
